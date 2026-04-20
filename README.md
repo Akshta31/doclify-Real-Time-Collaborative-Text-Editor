@@ -258,3 +258,17 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 ---
 
 Made with ✦ by Doclify
+
+🖼 Screenshots
+
+Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+Editor — Dark Theme
+![Editor Dark](screenshots/dark-theme.png)
+
+Editor — Light Theme
+![Editor Light](screenshots/light-theme.png)
+
+Real-Time Collaboration
+![Collaboration](screenshots/collab.png)
