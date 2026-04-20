@@ -262,13 +262,14 @@ Made with ✦ by Doclify
 🖼 Screenshots
 
 Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Akshta31/doclify---Real-Time-Collaborative-Text-Editor/blob/ca0762f1966db5469dd400de1ba9011a780ef12c/screenshotss/dasshboard.png)
+
+
+Real-Time Collaboration
+![Collaboration](https://github.com/Akshta31/doclify---Real-Time-Collaborative-Text-Editor/blob/cb9d36b796fa06eac9ddfe249989ce877ba159ad/screenshotss/collab.png)
 
 Editor — Dark Theme
 ![Editor Dark](screenshots/dark-theme.png)
 
 Editor — Light Theme
 ![Editor Light](screenshots/light-theme.png)
-
-Real-Time Collaboration
-![Collaboration](https://github.com/Akshta31/doclify---Real-Time-Collaborative-Text-Editor/blob/cb9d36b796fa06eac9ddfe249989ce877ba159ad/screenshotss/collab.png)
