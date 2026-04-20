@@ -271,4 +271,4 @@ Editor — Light Theme
 ![Editor Light](screenshots/light-theme.png)
 
 Real-Time Collaboration
-![Collaboration](screenshots/collab.png)
+![Collaboration](https://github.com/Akshta31/doclify---Real-Time-Collaborative-Text-Editor/blob/cb9d36b796fa06eac9ddfe249989ce877ba159ad/screenshotss/collab.png)
