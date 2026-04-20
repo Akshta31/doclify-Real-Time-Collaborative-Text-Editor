@@ -1,0 +1,8 @@
+{
+  "short_name": "Doclify",
+  "name": "Doclify — Collaborative Editor",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f0f13",
+  "background_color": "#0f0f13"
+}
