@@ -1,4 +1,4 @@
-# ✦ Doclify — Real-Time Collaborative Document Editor
+# Doclify — Real-Time Collaborative Document Editor
 
 A full-stack collaborative document editor built with React, Node.js, Socket.IO, and MongoDB. Think Google Docs, simplified and personalized.
 
