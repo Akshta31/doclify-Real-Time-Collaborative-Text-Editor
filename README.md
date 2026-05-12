@@ -73,7 +73,7 @@ docker-compose up --build
 docker exec doclify-backend node src/seed.js
 ```
 
-Visit: http://localhost:3000
+After Running Commands Project will run on: http://localhost:3000
 
 ---
 
