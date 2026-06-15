@@ -111,7 +111,7 @@ npm start          # Starts on http://localhost:3000
 
 ---
 
-## 🔐 Demo Accounts (after seeding)
+## Demo Accounts (after seeding)
 
 | Email                  | Password      | Role  |
 |------------------------|---------------|-------|
