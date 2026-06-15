@@ -58,7 +58,7 @@ doclify/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Option A: Docker (Recommended)
 
