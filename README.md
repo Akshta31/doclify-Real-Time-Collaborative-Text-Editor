@@ -155,7 +155,7 @@ npm start          # Starts on http://localhost:3000
 | GET    | /api/health  | Server status |
 
 ---
-## 🔄 Socket.IO Events
+##  Socket.IO Events
 
 ### Client → Server
 | Event          | Payload                            | Description              |
