@@ -121,7 +121,7 @@ npm start          # Starts on http://localhost:3000
 
 ---
 
-## 🔌 API Reference
+## API Reference
 
 ### Auth
 | Method | Endpoint                  | Description           |
