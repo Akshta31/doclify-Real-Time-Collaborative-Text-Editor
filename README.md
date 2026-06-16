@@ -197,7 +197,7 @@ npm start          # Starts on http://localhost:3000
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Layer       | Technology                        |
 |-------------|-----------------------------------|
