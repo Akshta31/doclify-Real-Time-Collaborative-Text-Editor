@@ -258,7 +258,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 
 Made with ✦ by Doclify
 
-🖼 Screenshots
+Screenshots
 
 Login Page 
 ![Login](https://github.com/Akshta31/doclify---Real-Time-Collaborative-Text-Editor/blob/ad2829147911d9f7fd8ed4f1c0d24718b62bd60f/screenshotss/login%20page.png)
