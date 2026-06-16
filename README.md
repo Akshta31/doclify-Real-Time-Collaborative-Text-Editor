@@ -181,7 +181,7 @@ npm start          # Starts on http://localhost:3000
 
 ---
 
-## ✨ Features
+## Features
 
 - **Real-time collaboration** — Socket.IO rooms per document
 - **Live cursor tracking** — see other users' cursor positions
