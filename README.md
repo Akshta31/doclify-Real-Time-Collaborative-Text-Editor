@@ -232,7 +232,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 
 ---
 
-## 📦 Production Deployment
+##  Production Deployment
 
 1. Set `NODE_ENV=production` and a strong `JWT_SECRET`
 2. Use MongoDB Atlas for the database
