@@ -212,7 +212,7 @@ npm start          # Starts on http://localhost:3000
 
 ---
 
-## 🔧 Environment Variables
+##  Environment Variables
 
 ### Backend `.env`
 ```
