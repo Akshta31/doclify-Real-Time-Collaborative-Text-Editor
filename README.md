@@ -256,7 +256,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 
 ---
 
-Made with ✦ by Doclify
+Made with by Doclify
 
 Screenshots
 
