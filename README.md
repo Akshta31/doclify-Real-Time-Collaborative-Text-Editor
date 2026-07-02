@@ -245,7 +245,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 
 ##  Roadmap (Optional Enhancements)
 
-- [ ] Operational Transform (OT) or CRDT for true conflict-free merging
+- Operational Transform (OT) or CRDT for true conflict-free merging
 - [ ] Redis adapter for Socket.IO (horizontal scaling)
 - [ ] Email notifications for invites (Nodemailer / SendGrid)
 - [ ] PDF export (Puppeteer)
