@@ -250,7 +250,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 - [ ] Email notifications for invites (Nodemailer / SendGrid)
 - [ ] PDF export (Puppeteer)
 - [ ] Google OAuth login
-- [ ] Offline mode (Service Worker + IndexedDB)
+- Offline mode (Service Worker + IndexedDB)
 - Document templates
 - @mention in comments
 
