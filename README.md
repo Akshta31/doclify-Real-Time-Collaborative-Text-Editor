@@ -251,7 +251,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 - [ ] PDF export (Puppeteer)
 - [ ] Google OAuth login
 - [ ] Offline mode (Service Worker + IndexedDB)
-- [ ] Document templates
+- Document templates
 - @mention in comments
 
 ---
