@@ -249,7 +249,7 @@ REACT_APP_SOCKET_URL=http://localhost:5000
 - Redis adapter for Socket.IO (horizontal scaling)
 - [ ] Email notifications for invites (Nodemailer / SendGrid)
 - [ ] PDF export (Puppeteer)
-- [ ] Google OAuth login
+- Google OAuth login
 - Offline mode (Service Worker + IndexedDB)
 - Document templates
 - @mention in comments
